@@ -1,3 +1,3 @@
 #Repositorio de programas
-Gracias por visitar el prefil :)
-<h2>Cualquier inquietud arcelo conocer por este medio </h2>
+<h1>Gracias por visitar el prefil :) </h1>
+<h2>Cualquier inquietud cunlsutar por este medio </h2>
